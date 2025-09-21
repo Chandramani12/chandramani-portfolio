@@ -15,6 +15,7 @@ const App = () => (
       <Sonner />
       <BrowserRouter basename="/chandramani-portfolio">
         <Routes>
+          {/* fixing new route*/}
           <Route path="/" element={<Index />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
