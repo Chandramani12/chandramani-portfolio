@@ -88,7 +88,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-2xl animated-gradient opacity-40"></div>
               <div className="absolute inset-4 rounded-xl bg-card glow-effect"></div>
                   <img 
-                    src="/lovable-uploads/images/Nakuri.png" width={500}  height={300}
+                    src="./lovable-uploads/images/portfolio.png" 
                     alt="Chandramani Tiwari"
                     className="absolute inset-4 rounded-xl object-cover z-10 mix-blend-luminosity"
                   />
